@@ -1,0 +1,15 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{824F2DF3-C335-4EA7-994F-38678DA20D0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes Status">
+    <Files>
+      <File FileName="Classes/Program.cs" Line="9" Column="11" />
+      <File FileName="Classes Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Classes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
